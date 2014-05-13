@@ -37,6 +37,22 @@
         "call-gatherer-pass": true,
         "check-invalid-reads": false
     },
+    "info": [
+        {
+            "header": ["Directive", "Value"],
+            "rows": [
+                ["setting1", "value1"],
+                ["setting2", "value2"]
+            ]
+        },
+        {
+            "header": ["Directive", "Value"],
+            "rows": [
+                ["setting3", "value3"],
+                ["setting4", "value4"]
+            ]
+        }
+    ],
     "namespace": "fnmath",
     "name": "fnmath",
     "description": "",
